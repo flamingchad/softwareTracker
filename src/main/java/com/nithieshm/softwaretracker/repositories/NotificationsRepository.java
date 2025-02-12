@@ -1,9 +1,8 @@
-package com.nithieshm.softwaretracker.Repositories;
+package com.nithieshm.softwaretracker.repositories;
 
 import com.nithieshm.softwaretracker.entities.Notifications;
 import com.nithieshm.softwaretracker.entities.Projects;
 import com.nithieshm.softwaretracker.entities.Users;
-import org.aspectj.weaver.ast.Not;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

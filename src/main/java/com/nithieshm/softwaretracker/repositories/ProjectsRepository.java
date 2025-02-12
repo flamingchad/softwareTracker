@@ -1,4 +1,4 @@
-package com.nithieshm.softwaretracker.Repositories;
+package com.nithieshm.softwaretracker.repositories;
 
 import com.nithieshm.softwaretracker.entities.Projects;
 import org.springframework.data.jpa.repository.JpaRepository;
